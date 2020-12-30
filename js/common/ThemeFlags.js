@@ -1,0 +1,25 @@
+const ThemeFlags = [
+    { text: 'Default', value: '#2196F3'},
+    { text: 'Red', value: '#F44336' },
+    { text: 'Pink', value: '#E91E63' },
+    { text: 'Purple', value: '#9C27B0' },
+    { text: 'DeepPurple', value: '#673AB7' },
+    { text: 'Indigo', value: '#3F51B5' },
+    { text: 'Blue', value: '#2196F3' },
+    { text: 'LightBlue', value: '#03A9F4' },
+    { text: 'Cyan', value: '#00BCD4' },
+    { text: 'Teal', value: '#009688' },
+    { text: 'Green', value: '#4CAF50' },
+    { text: 'LightGreen', value: '#8BC34A' },
+    { text: 'Lime', value: '#CDDC39' },
+    { text: 'Yellow', value: '#FFEB3B' },
+    { text: 'Amber', value: '#FFC107' },
+    { text: 'Orange', value: '#FF9800' },
+    { text: 'DeepOrange', value: '#FF5722' },
+    { text: 'Brown', value: '#795548' },
+    { text: 'Grey', value: '#9E9E9E' },
+    { text: 'BlueGrey', value: '#607D8B' },
+    { text: 'Black', value: '#000000' },
+];
+
+export { ThemeFlags }
